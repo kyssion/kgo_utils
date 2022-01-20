@@ -1,1 +1,5 @@
 package convert
+
+func ConvertStruct() {
+
+}
